@@ -1,0 +1,10 @@
+pydantic
+python-dotenv
+sendgrid
+ipython
+typing-extensions
+ipykernel
+openai-agents
+resend
+gradio
+streamlit
