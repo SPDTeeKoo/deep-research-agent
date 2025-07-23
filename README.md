@@ -45,7 +45,7 @@ Deep Research Agent is an AI-powered research assistant that automates the proce
 You can deploy this app for free on [Streamlit Cloud](https://streamlit.io/cloud).
 
 **Live App:**  
-[https://deep-research-agent.streamlit.app](https://deep-research-agent.streamlit.app)  
+[https://deep-research-agent-6qcfuqvqrtbtttyvn82cdv.streamlit.app/]
 
 ## Requirements
 
